@@ -1,0 +1,214 @@
+.header{
+    text-align: center;
+    padding:20px;
+    background-color: blue;
+    color:white;
+}
+ .header img,
+ .header h1 {
+     display: inline-block;
+     vertical-align: middle;
+     color:white;
+     size: 40px;
+ }
+
+ header img{
+    width: 100px;
+    height:auto;
+    margin-right:15px
+ }
+
+ header h1{
+    font-size: 54px;
+    color: black;
+ }
+
+ .html{
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 1%;
+    margin: auto;
+ }
+
+ .why{
+    background-color: aqua;
+    color: red;
+    height: 150px;
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 1%;
+    margin: auto;
+ }
+
+.inventer{
+    background-color: cornflowerblue;
+    color: orange;
+    height: 150px;
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 1%;
+    margin:auto;
+
+
+}
+
+ .container{
+    display: flex;
+    align-self:auto;
+    margin: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+ h2 {
+     margin-bottom: 10px;
+ }
+
+ p {
+     margin-top: 5px;
+ }
+
+.tabletag{
+    background: rgb(124, 32, 237);
+    color: white;
+    padding: 10px;
+    font-size: 50px;
+    margin:auto;
+    margin-top: 0%;
+    text-align: center;
+}
+ .tab{
+    align-content: center;
+    margin:auto;
+    margin-top: 1%;
+    text-align: center;
+    border-radius: 5px solid;
+    
+ }
+table{
+    width: 500px;
+    margin:auto; 
+}
+ .td .tr .th{
+    text-align: center;
+ }
+
+ .butto{
+        background: rgb(53, 57, 193);
+        padding: 10px;
+        color: white;
+        font-size: 50px;
+        margin: auto;
+        margin-top: 0%;
+        text-align: center;
+        margin-top:12px ;
+        margin-bottom: 12px;
+ }
+
+ .container1 {
+     display: table;
+     width: 100%;
+     max-width: 600px;
+     margin: 0 auto;
+ }
+
+ .row {
+     display: table-row;
+ }
+
+ .button-name,
+ .button-preview {
+     display: table-cell;
+     padding: 10px;
+     border: 1px solid #ccc;
+ }
+
+ .container2 {
+     display: table;
+     width: 100%;
+     max-width: 600px;
+     margin: 0 auto;
+ }
+
+ .row1 {
+     display: table-row;
+     height:100%;
+ }
+
+ .tag-name,
+ .tag-preview {
+     display: table-cell;
+     padding: 10px;
+     outline: auto;
+     border: 1px solid #ccc;
+     margin: auto;
+     margin-top: 0px;
+     width:100%
+ }
+
+ .tag-name {
+     background-color: #e0e0e0;
+     text-align: center;
+     font-weight: bold;
+     margin-top: 0px;
+     outline: auto;
+     vertical-align: middle;
+ }
+
+ .tag-preview {
+    text-align: center;
+    margin-top: 0px;
+ }
+
+.underlines:hover{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+ a {
+     color: #008CBA;
+     text-decoration: none;
+ }
+
+
+ img {
+     max-width: 75%;
+     height: auto;
+     border-radius: 4px;
+ }
+
+ audio,
+ video {
+     max-width: 320px;
+     border-radius: 4px;
+     vertical-align: center;
+ }
+
+ video{
+    display: block;
+ }
+
+ .f{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    height: 90px;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 500px;
+    font-size: 70px; 
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.f:hover{
+    background: white;
+    text-shadow: 2px #008CBA;
+    border: 5px solid #008CBA;
+}
+
+
